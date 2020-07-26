@@ -1,0 +1,112 @@
+---
+title: "A tiny wee look at group_map and group_split in dplyr"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## GitHub Documents
+Dplyr 0.8.0 launched recently.
+
+Two new functions have been catching my eye :
+group_map and group_split.
+
+The aim of this post - take a first look at these and try and get a new blog post up in github
+Time now: 23:38(UK)
+
+
+
+## What it says on the tin
+
+Load packages and create a function for demo purposes , basically grab the first 5 rows of whatever we throw at it:
+
+```{r}
+library(nycflights13)
+library(dplyr)
+
+data(flights)
+
+header <- function(x,n = 5){
+  head(x,n)
+  }
+```
+
+Let's check the function works first of all:
+
+
+```{r, echo=FALSE}
+flights %>% 
+  group_by(origin) %>% 
+  header()
+```
+
+Good, that just returns 5 rows from the entire datset. 
+Now let's replace group_by with group_split, and group by origin
+
+```{r, echo = FALSE}
+split_test <- flights %>% 
+group_by(origin) 
+
+```
+Then we use group_split to create individual tibbles for each group
+
+```{r}
+group_split(split_test)
+
+```
+
+We can verify how the grouping was carried out by using group_keys:
+```{r}
+
+
+group_keys(split_test)
+```
+
+
+
+Now, let's get rid of that, and try group_map, again, by origin. 
+We may as well use my highly pointless function.
+If all goes well, we will return a tibble of 15 rows
+
+
+```{r}
+rm(split_test)
+test5 <- flights %>% 
+  group_by(origin) %>% 
+ group_map(~ header(.x))
+```
+
+
+The dplyr help tells us that '.x' refers to the subset of rows for each group that is passed in. That returned 5 rows per origin, as expected.Let's try again and obtain some more rows per group:
+
+
+```{r}
+
+test10 <- flights %>% 
+  group_by(origin) %>% 
+ group_map(~ header(.x,10L))
+
+```
+
+Now we have 30 observations in our new tibble, so this all looks good.
+Can we split and map together?
+
+```{r}
+#test_group_and_map <- flights %>% 
+ # group_split(origin) %>% 
+ #group_map(~ first5(.x,20))
+```
+
+No we cannot. 
+Group_map works on grouped tibbles, and by splitting, we're passing it a list. 
+Instant fail. RTFM folks.
+
+At this point, I can see group_map being pretty useful, but I will need to do a bit more work on the use case for group_split - at present, I'm not seeing what it offers over and above group_by. 
+As always, feel free to chip in if you have any thoughts or answers
+
+
+
+
+

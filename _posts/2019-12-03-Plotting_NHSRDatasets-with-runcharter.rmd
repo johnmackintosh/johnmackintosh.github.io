@@ -1,0 +1,153 @@
+---
+title: "NHSRDatasets meets runcharter"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(NHSRdatasets)
+library(runcharter) # remotes::install_github("johnmackintosh/runcharter)
+library(dplyr)
+library(skimr)
+
+```
+
+## Background
+
+The [NHSRDatasets](https://cran.r-project.org/package=NHSRdatasets) package made it to CRAN recently, and as it is designed for use by NHS data analysts, and I am an NHS data analyst, let's take a look at it.
+Thanks to Chris Mainey and Tom Jemmett for getting this together.
+
+## Load packages and data
+
+As above let's load what we need for this session. 
+The runcharter package is built using data.table, but I'm using dplyr in this main section to show that you don't need to know data.table to use it.
+
+However- seriously, do take a look at data.table.
+It's not has hard to understand as some might have you believe. A little bit of effort pays off.
+You can load the package from github using the remotes package.
+(I've managed to install it on Windows and Ubuntu. 
+Mac user? No idea, I'm a Band 6  UK public sector data analyst, so can only dream of such luxuries).
+
+
+```{r, echo= FALSE}
+library(NHSRdatasets)
+library(runcharter) ## remotes::install_github("johnmackintosh/runcharter")
+library(dplyr)
+```
+
+```{r,echo=TRUE}
+ae <- data("ae_attendances") # a promise
+ae <- ae_attendances #  a string
+rm(ae_attendances) # just tying 'ae' brings it to life in the environment
+```
+
+
+Let's have a look at the data:
+
+```{r}
+glimpse(ae)
+```
+
+
+Lot's of factors. I'm actually very grateful for this package, as it caused me major issues when I first tried to plot this data using an earlier version of runcharter. I hadn't considered factors as a possible grouping variable, which was a pretty big miss. 
+
+There's way too much data for my tiny laptop screen, so I will filter the data for type 1 departments -  the package help gives us a [great link to explain what this means](https://www.datadictionary.nhs.uk/data_dictionary/attributes/a/acc/accident_and_emergency_department_type_de.asp)
+
+
+
+```{r}
+type1 <- ae %>% 
+  filter(type == 1) %>% 
+  arrange(period)
+
+# plot attendances
+p <- runcharter(type1,
+                med_rows = 13, # median of first 13 points
+                runlength = 9, # find a run of 9 consecutive points
+                direction = "above", # find run above the original median
+                datecol = "period",
+                grpvar = "org_code",
+                yval = "attendances")
+
+```
+
+The runcharter function returns both a plot, and a data.table/ data.frame showing a summary of any runs in the desired direction (I'm assuming folk reading this have a passing knowledge of run charts, but if not, you can look at the [package vignette](https://www.johnmackintosh.com/runcharter/articles/runcharter.html), which is the cause of most of my commits!!)
+
+Don't try loading the plot right now, because it is huge, and takes ages. 
+If we look at the summary dataframe,we can see 210 rows, a fairly decent portion of which relate to  significant increases above the original median value
+
+```{r}
+p$sustained
+```
+
+
+Let's use skimr to get a sense of this
+
+```{r}
+skimr::skim(p$sustained)
+```
+
+
+To keep this manageable, I'm going to filter out for areas that have median admissions > 10000 (based on the first 13 data points)
+
+```{r}
+high_admits <- p$sustained %>% 
+  filter(median > 10000 & run_type == "sustained") %>%
+  select(org_code)
+```
+
+Then I change the org_code from factor to character, and pull out unique values.
+I'm sure there is a slicker way of doing this, but it's getting late, and I don't get paid for this..
+
+I use the result to create a smaller data frame
+
+```{r}
+high_admits$org_code <- as.character(high_admits$org_code)
+
+
+type1_high <- type1 %>% 
+  filter(org_code %in% high_admits$org_code)
+```
+
+And now I can produce a plot that fits on screen. 
+I've made the individual scales free along the y axis, and added titles etc
+
+```{r runcharter-final}
+p2 <- runcharter(type1_high,
+                 med_rows = 13, # median of first 13 points as before
+                 runlength = 9, # find a run of 9 consecutive points
+                 direction = "above",
+                 datecol = "period",
+                 grpvar = "org_code",
+                 yval = "attendances", 
+                 facet_scales = "free_y",
+                 facet_cols = 4,
+                 chart_title = "Increased attendances in selected Type 1 AE depts",
+                 chart_subtitle = "Data covers 2016/17 to 2018/19",
+                 chart_caption = "Source : NHSRDatasets",
+                 chart_breaks = "6 months")
+
+```
+
+
+Let's look at the sustained dataframe
+
+```{r}
+p2$sustained
+```
+
+
+And of course, the plot itself
+
+```{r, fig.height=7, fig.width=9}
+p2$runchart
+```
+
+I haven't looked into the actual data too much, but there are some interesting little facets here - what's the story with RDE, RRK and RTG for example?
+I don't know which Trusts these codes represent, but they show a marked increase.
+
+The RGN (top right) and RVV (mid left) show the reason why I worked on this package - we can see that there has been more than one increase. Performing this analysis in Excel is not much fun after a while. 
+
+There is a lot more I can look at with this package, and we in the NHS-R community are always [happy to receive more datasets for inclusion](https://github.com/nhs-r-community/NHSRdatasets).
+
+
