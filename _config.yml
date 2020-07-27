@@ -22,7 +22,7 @@ navbar-links:
     
   Privacy : "Privacy" 
   
- Resources:  
+  Resources:  
     - My site on Netlify (faster/https) : "https://johnmackintosh.netlify.com/"  
     - R-bloggers : "https://www.r-bloggers.com/"  
     - R-bloggers feed : "http://feeds.feedburner.com/RBloggers"   
