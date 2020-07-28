@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/johnmackintosh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johnmackintosh.com
+  * I am johnmackintosh (https://keybase.io/johnmackintosh) on keybase.
+  * I have a public key ASARYIScGGzdELET-yClXYEp3dZ2k150EX5qI8Pj9i6blQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0229ed8962a948c36417d6977eed7b6d9cba74dd4ca2769ca798684c85f56760a",
+      "host": "keybase.io",
+      "kid": "01201160849c186cdd10b113fb20a55d8129ddd676935e74117e6a23c3e3f62e9b950a",
+      "uid": "230bce0f4058fe15cff940037a381419",
+      "username": "johnmackintosh"
+    },
+    "merkle_root": {
+      "ctime": 1550960473,
+      "hash": "5fd34c5e265414d870405d4c99146a793963f0295deb17d4f2605fa345d75f547d008dd2fce59bffce98c4e1902d9090f3618e0701bd3af4d70b06592bd1b5ef",
+      "hash_meta": "333e547f461cb0c8f908eaf1d5670343abf5c7b50da439909ba4285d767ae879",
+      "seqno": 4818458
+    },
+    "service": {
+      "entropy": "e7HEMzrb22pO/Q8ptb5aPvdH",
+      "hostname": "johnmackintosh.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550960488,
+  "expire_in": 504576000,
+  "prev": "b46626a3009ba4b0ed36f534de09531ac4025dbe70ffd43d097cc1ba3dd66bdb",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEWCEnBhs3RCxE/sgpV2BKd3WdpNedBF+aiPD4/Yum5UKp3BheWxvYWTESpcCCcQgtGYmowCbpLDtNvU03glTGsQCXb5w/9Q9CXzBuj3Wa9vEIFYjlEzr7e3UeSt1ZxEbTmFv4ECvTsYbrsUBMvdyJpd+AgHCo3NpZ8RAfrhvgBDlTk92tbEJX/MEzEOYVqJ6cCZtd5QdPWhEBecr7kP5bR8jqEn+mN6oZd9MEgSt7N2jrFIElxx/8/G+BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIlzulj+2CnQzuZ939+QQPRKNrmWqKYHzFMnSKgf6NtRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnmackintosh
+
+==================================================================

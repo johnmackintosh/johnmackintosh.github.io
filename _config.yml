@@ -23,7 +23,6 @@ navbar-links:
   Privacy : "Privacy" 
   
   Resources:  
-    - My site on Netlify (faster/https) : "https://johnmackintosh.netlify.com/"  
     - R-bloggers : "https://www.r-bloggers.com/"  
     - R-bloggers feed : "http://feeds.feedburner.com/RBloggers"   
     - R-users : "http://www.r-users.com/" 
@@ -31,6 +30,7 @@ navbar-links:
     - RWeekly : "https://rweekly.org/"  
     - Tags: "tags"  
     - Introduction to SQL Server: "https://www.datacamp.com/courses/introduction-to-sql-server"  
+      #- My site on Netlify (faster/https) : "https://johnmackintosh.netlify.com/"  
 
 # --- Logo --- #
 
@@ -100,6 +100,7 @@ excerpt_length: 50
 
 navbar-col: "#314f96"
 navbar-text-col: "#fafafa"
+navbar-children-col: "#F5F5F5"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
