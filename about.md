@@ -57,8 +57,9 @@ Twitter : **[@_johnmackintosh](https://twitter.com/_johnmackintosh)**
 
 
 
-Thanks for reading this far :)
-John
+Thanks for reading this far  
+:)  
+John. 
 
 
 
