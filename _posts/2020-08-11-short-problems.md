@@ -3,7 +3,7 @@ layout: post
 title: Solving small data problems with data.table  
 description: > 
   Friday afternoon fun - how do we do this apparently simple thing?  
-image: /assets/img/blog/jm_fog.JPG  
+image: /assets/img/jm_fog.JPG  
 sitemap: false
 tags:
   - rstats
@@ -158,5 +158,13 @@ Anyway, fellow NHS-R folk, who I love, are now given fair warning
 that I will continue to be the annoying data.table guy, because at some
 point, a really tricky problems will arise, and data.table is a great tool to have available.  
 You should learn it too.  
+
+## New Site
+
+I'm in the middle of transitioning over to a new site. 
+This quick post was a way of hepling to publicise it. 
+If you're reading this on [johnmackintosh.com](https://johnmackintosh.com), you might like to switch over to [johnmackintosh.net](https://johnmackintosh.net), where a slightly slicker experience awaits you.
+
+
 
 
