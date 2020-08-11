@@ -3,7 +3,7 @@ layout: post
 title: Solving small data problems with data.table  
 description: > 
   Friday afternoon fun - how do we do this apparently simple thing?  
-image: /assets/img/jm_fog.JPG  
+share-img: /assets/img/jm_fog.JPG  
 sitemap: false
 tags:
   - rstats
