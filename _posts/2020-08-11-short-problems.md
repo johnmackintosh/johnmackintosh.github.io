@@ -156,7 +156,7 @@ Although, in that case, I'd have used a snappier title than 'cols_to_summarise'.
 
 Anyway, fellow NHS-R folk, who I love, are now given fair warning
 that I will continue to be the annoying data.table guy, because at some
-point, a really tricky problems will arise, and data.table is a great tool to have available.  
+point, a really tricky problem will arise, and data.table is a great tool to have available.  
 You should learn it too.  
 
 ## New Site
