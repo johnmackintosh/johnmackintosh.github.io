@@ -1,7 +1,7 @@
 ---
 title: "Rapid Analysis and Presentation of Quality Improvement Data with R"
 subtitle: I presented at RMedicine2020 and really enjoyed it 
-share-img: /assets/img/blog/2020-09-07-rmed-presentation-cover.png
+share-img: /assets/img/2020-09-07-rmed-presentation-cover.png
 layout: post
 published: true
 tags:
@@ -64,7 +64,7 @@ Thanks to all those who were involved in organising this event.
 Huge thanks to my sister for letting me retreat to a peaceful house to do my presentation :)
 
 
-![2020-09-07-rmed-session.png)]({{site.baseurl}}/assets/img/blog/2020-09-07-rmed-session.png)
+![2020-09-07-rmed-session.png)]({{site.baseurl}}/assets/img/2020-09-07-rmed-session.png)
 
 
 
