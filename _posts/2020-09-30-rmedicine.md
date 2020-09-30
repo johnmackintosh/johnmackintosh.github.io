@@ -64,6 +64,8 @@ Thanks to all those who were involved in organising this event.
 Huge thanks to my sister for letting me retreat to a peaceful house to do my presentation :)
 
 
+[My slides are also available here](https://github.com/johnmackintosh/RMedicine2020)
+
 ![2020-09-07-rmed-session.png)]({{site.baseurl}}/assets/img/2020-09-07-rmed-session.png)
 
 
