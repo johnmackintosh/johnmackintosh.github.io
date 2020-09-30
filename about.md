@@ -55,13 +55,11 @@ LinkedIn : **[https://www.linkedin.com/in/john-mackintosh-inv](https://www.linke
 
 Twitter : **[@_johnmackintosh](https://twitter.com/_johnmackintosh)**
 
-If you find my blog posts helpful, please consider a small donation. 
-I'll use this to fund my self learning, so I can continue to share my knowledge:
 
-[paypal.me/JohnMackintosh](https://paypal.me/JohnMacKintosh)
 
-Thanks for reading this far :)
-John
+Thanks for reading this far  
+:)  
+John. 
 
 
 
