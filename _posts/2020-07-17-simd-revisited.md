@@ -9,7 +9,7 @@ tags:
   - hrbrthemes
   - SIMD
 subtitle: SIMD data without maps
-share-img: img/20200717_simd_domain_rank_plot.png
+share-img: /assets/img/20200717_simd_domain_rank_plot.png
 ---
 ## The Scottish Index of Multiple Deprivation updated for 2020
 
