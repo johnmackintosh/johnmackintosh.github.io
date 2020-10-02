@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "metallicaRt"
-description: >
-  I created several colour palettes based on Metallica album covers 
-image: /assets/img/blog/2020-10-02-metallicart.jpg
-sitemap: no
+subtitle: I created several colour palettes based on Metallica album covers 
+share-img: /assets/img/blog/2020-10-02-metallicart.jpg
+published: true
 tags:
 - rstats
 - music
 comments: yes
 ---
 
+## What?
 
 On a whim, I created a collection of colour palettes based on Metallica
 album covers.
