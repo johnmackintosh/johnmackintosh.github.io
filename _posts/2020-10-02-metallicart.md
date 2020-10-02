@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "metallicaRt"
-subtitle: I created several colour palettes based on Metallica album covers 
+subtitle: Seek and Destroy meets School of Rock 
 share-img: /assets/img/blog/2020-10-02-metallicart.jpg
 published: true
 tags:
