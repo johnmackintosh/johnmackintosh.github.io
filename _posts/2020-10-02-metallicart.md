@@ -23,7 +23,7 @@ I *will* take questions on that :)
 
 ## Why?
 
-![whiplash]({{site.baseurl}}/assets/img/blog/2020-10-02-rocking.gif)
+![rocking]({{site.baseurl}}/assets/img/2020-10-02-rocking.gif)
 
 Because I saw [this
 post](https://github.com/annahensch/R-tutorials/blob/master/ggplot-on-fire.md)
