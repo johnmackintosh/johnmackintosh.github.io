@@ -2,7 +2,7 @@
 layout: post
 title: "metallicaRt"
 subtitle: Seek and Destroy meets School of Rock 
-share-img: /assets/img/blog/2020-10-02-metallicart.jpg
+share-img: /assets/img/2020-10-02-metallicart.jpg
 published: true
 tags:
 - rstats
@@ -53,7 +53,7 @@ alternatives, although these are much smaller (4 colour palettes)
 Of course you do. 
 
 
-![worship]({{site.baseurl}}/assets/img/blog/2020-10-02-worship.gif)
+![worship]({{site.baseurl}}/assets/img/2020-10-02-worship.gif)
 
 
 This will not go to CRAN, so please install using the remotes package.  
@@ -67,16 +67,16 @@ All named after a song title from the relevant album.
 
 I'm only going to show a few here because otherwise it'll get boring (for us all)
 
-![whiplash]({{site.baseurl}}/assets/img/blog/2020-10-02-12.png)
+![whiplash]({{site.baseurl}}/assets/img/2020-10-02-12.png)
 
-![bells]({{site.baseurl}}/assets/img/blog/2020-10-02-23.png)
+![bells]({{site.baseurl}}/assets/img/2020-10-02-23.png)
 
-![orion]({{site.baseurl}}/assets/img/blog/2020-10-02-27.png)
+![orion]({{site.baseurl}}/assets/img/2020-10-02-27.png)
 
-![orionextended]({{site.baseurl}}/assets/img/blog/2020-10-02-28.png)
+![orionextended]({{site.baseurl}}/assets/img/2020-10-02-28.png)
 
 
-![revenge]({{site.baseurl}}/assets/img/blog/2020-10-02-2.png)
+![revenge]({{site.baseurl}}/assets/img/2020-10-02-2.png)
 
 
 
@@ -96,27 +96,31 @@ Again, I'm not going to do all ten albums.
 
 ## Master of Puppets
 
-![puppets]({{site.baseurl}}/assets/img/blog/2020-10-02-8.png) ![puppets10]({{site.baseurl}}/assets/img/blog/2020-10-02-9.png)
+![puppets]({{site.baseurl}}/assets/img/2020-10-02-8.png) 
+![puppets10]({{site.baseurl}}/assets/img/2020-10-02-9.png)
 
 
 ## Reload
 
-![reload]({{site.baseurl}}/assets/img/blog/2020-10-02-17.png) ![reload10]({{site.baseurl}}/assets/img/blog/2020-10-02-18.png)
+![reload]({{site.baseurl}}/assets/img/2020-10-02-17.png)  
+![reload10]({{site.baseurl}}/assets/img/2020-10-02-18.png)  
 
 
 ## St.Anger
-![anger]({{site.baseurl}}/assets/img/blog/2020-10-02-19.png) ![anger10]({{site.baseurl}}/assets/img/blog/2020-10-02-20.png)
+![anger]({{site.baseurl}}/assets/img/2020-10-02-19.png) 
+![anger10]({{site.baseurl}}/assets/img/2020-10-02-20.png)
 
 
 ## Hardwired…To Self Destruct
 
-![hardwired]({{site.baseurl}}/assets/img/blog/2020-10-02-24.png) ![hardwired10]({{site.baseurl}}/assets/img/blog/2020-10-02-25.png)
+![hardwired]({{site.baseurl}}/assets/img/2020-10-02-24.png) 
+![hardwired10]({{site.baseurl}}/assets/img/2020-10-02-25.png)
 
 ## Metal up your palette
 
 A nice wee combo of various colours from all the albums
 
-![combo]({{site.baseurl}}/assets/img/blog/2020-10-02-26.png) 
+![combo]({{site.baseurl}}/assets/img/2020-10-02-26.png) 
 
 
 There you go, [head over to the repo](https://github.com/johnmackintosh/metallicaRt) to see them all. 
@@ -137,4 +141,4 @@ Also, shout out to [Anna Henschel](annahenschel.com) for the original inspiratio
 Thanks very much to you both :)
 
 
-![salute]({{site.baseurl}}/assets/img/blog/2020-10-02-salute.gif)
+![salute]({{site.baseurl}}/assets/img/2020-10-02-salute.gif)
