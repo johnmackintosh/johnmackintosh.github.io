@@ -50,7 +50,7 @@ alternatives, although these are much smaller (4 colour palettes)
 
 ## I need this in my life
 
-Of course you do. Metallica rule.
+Of course you do. 
 
 
 ![worship]({{site.baseurl}}/assets/img/blog/2020-10-02-worship.gif)
