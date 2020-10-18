@@ -42,10 +42,11 @@ First things first, it's not _all_ rock and metal.
 I knew that some were going in because they are rock classic, others went in because I like them, some went in because the covers were colourful (or weird) and others are in because they came up in a list of classic rock album covers.
 
 I will leave it to you to check them out. 
-In amongst them all, you will find Taylor Swift, Oasis, The Cult, Uria Heep (not a typo),  PJ Harvey, Janelle Monae, The Go Gos, Nirvana and  No Doubt. 
+In amongst them all, you will find themes inspired by acts such as Taylor Swift, Oasis, The Cult, Uria Heep (not a typo),  PJ Harvey, Janelle Monae, The Go Gos, Nirvana and  No Doubt. 
 
 The latter came in via PR, before I'd even got my website properly set up.
-And, it was so good, it made it onto the package logo. 
+And, the resulting palettes were so good, they immediately became my favourite and made it onto the package logo. 
+And because it was so good, I'm only _slightly_ annoyed about the fact _I_ didn't come up with it in the first place. 
 
 
 Please go and check this package out, and if you like it, star it. 
@@ -56,7 +57,18 @@ Of course, it wasn't all just mucking about looking at album pictures and making
 I also managed to use github actions to run package checks, which I've done before, but what I really wanted was to automate the rendering of the readme, and the building of the package site. 
 
 It's fair to say pkgdown site building and missing images drove me fairly demented over the last night or two, but I think it's all working now. 
-Big fan of github actions once they are up and running.
+For the life of me, I could not figure out why my images were not dispaying on my package site. 
+I was knee deep in github issues, trying to find an answer. 
+
+The images were displaying as missing links in Chrome. 
+But, on right clicking, there was an option to load the image, and when I did *that*, they appeared. 
+And then I remembered that .jpg files often get blocked, while .png don't. 
+So I converted them all to .png and my website displayed correctly as intended.
+
+TWO NIGHTS OF getting nowhere, solved just like that!
+
+
+I'm a big fan of github actions once they are up and running.
 
 I will blog more about this, hopefully, but in the meantime, please check out the veritable cornucopia of visual delights* over on [rockthemes](https://johnmackintosh.com/rockthemes/)
 
