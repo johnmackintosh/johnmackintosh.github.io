@@ -3,7 +3,7 @@ layout: post
 title: "rockthemes"
 subtitle: Classic rock album covers inspire even more R colour palettes
 share-img: /assets/img/logo.png
-published: false
+published: true
 tags:
 - rstats
 - music
@@ -78,6 +78,9 @@ TWO NIGHTS OF getting nowhere, solved just like that!
 I'm a big fan of github actions once they are up and running.
 
 I will blog more about this, hopefully, but in the meantime, please check out the veritable cornucopia of visual delights^^ over on [rockthemes](https://johnmackintosh.com/rockthemes/)
+
+If you use it, let me know :)
+Thanks
 
 
 ^ I am  
