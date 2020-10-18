@@ -22,7 +22,7 @@ Imagine my surprise when I made [metallicaRt](https://johnmackintosh.com/metalli
 Still, got there in the end, and I was safe in the knowledge that at least I wouldn't be doing *that* again.
 
 Despite the fact that {metallicaRt} bombed spectacularly on  R-Bloggers (its OK, I'm not taking it personally^), it did get shared on LinkedIn, of all places, and seemed to be very popular. So much so, that I felt I should go back and make it a bit more ggplot2 friendly. 
-Which it is -  you can now [scale_fill_reload](https://johnmackintosh.com/metallicaRt/reference/reload_pal.html) or [scale_colour_anger](https://johnmackintosh.com/metallicaRt/reference/anger_pal.html)to your heart's content.
+Which it is -  you can now [scale_fill_reload](https://johnmackintosh.com/metallicaRt/reference/reload_pal.html) or [scale_colour_anger](https://johnmackintosh.com/metallicaRt/reference/anger_pal.html) to your heart's content.  
 Go on, [take another look](https://johnmackintosh.com/metallicaRt/index.html).
 
 
