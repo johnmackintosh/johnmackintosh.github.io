@@ -1,3 +1,14 @@
+---
+layout: post
+title: "rockthemes"
+subtitle: Classic rock album covers inspire even more r colour palettes
+share-img: /assets/img/logo.png
+published: false
+tags:
+- rstats
+- music
+comments: yes
+---
 
 
 If you'd have asked me a few weeks ago if I wanted to create an R colour palette package, I'd have said "No way".
