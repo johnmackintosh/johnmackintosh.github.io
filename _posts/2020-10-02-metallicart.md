@@ -136,7 +136,7 @@ package](https://github.com/kellycotton/nycpalettes) which this was
 extremely heavily based on. 
 
 
-Also, shout out to [Anna Henschel](annahenschel.com) for the original inspiration, and for positively reinforcing that this was a good idea. 
+Also, shout out to [Anna Henschel](https://annahenschel.com) for the original inspiration, and for positively reinforcing that this was a good idea. 
 
 Thanks very much to you both :)
 
