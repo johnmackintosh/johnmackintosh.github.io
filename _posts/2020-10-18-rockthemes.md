@@ -53,7 +53,7 @@ In amongst them all, you will find themes inspired by acts such as Taylor Swift,
 
 The latter came in via PR, before I'd even got my website properly set up.
 And, the resulting palettes were so good, they immediately became my favourite and made it onto the package logo. 
-And because the logo palette was so good, I'm only _slightly_ annoyed about the fact _I_ didn't come up with it in the first place. 
+And because the logo palette was so good, I'm only _slightly_ annoyed about the fact **I** didn't come up with it in the first place. 
 
 
 Please go and check this package out, and if you like it, star it. 
