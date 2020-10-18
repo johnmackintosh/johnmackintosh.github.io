@@ -37,9 +37,13 @@ And so, as much to my astonishment as it will be to your general disinterest, I 
 
 I'm actually quite pleased with this.
 
-First things first, it's not _all_ rock and metal. 
+First things first, it's not _all_ rock and metal bands 
 
-I knew that some were going in because they are rock classic, others went in because I like them, some went in because the covers were colourful (or weird) and others are in because they came up in a list of classic rock album covers.
+Some are included because they _are_ rock classics. 
+
+Others made the cut because I like the band, even though they may have done better albums. 
+
+Some are included because the covers are colourful (or weird) and others are in simply because they came up when I searched for a list of classic rock album covers.
 
 I will leave it to you to check them out. 
 In amongst them all, you will find themes inspired by acts such as Taylor Swift, Oasis, The Cult, Uria Heep (not a typo),  PJ Harvey, Janelle Monae, The Go Gos, Nirvana and  No Doubt. 
