@@ -15,9 +15,12 @@ If you'd have asked me a few weeks ago if I wanted to create an R colour palette
 
 In fact, I'd have added 
 "There are already **MANY** R colour palette packages, some might even say _too many_.
-The last thing the world needs right now is more R colour palette packages"
+The last thing the world needs right now is more R colour palette packages".
 
-Imagine my surprise when I made [metallicaRt](https://johnmackintosh.com/metallicaRt/), even if I did royally mess up the announcement in my last blog post, by originally failing to include working images.
+But there are also other things we don't need, like, for example, _idiots in charge of countries_. 
+And we have _those_. 
+
+So imagine my surprise when I made [metallicaRt](https://johnmackintosh.com/metallicaRt/), even if I did royally mess up the announcement in my last blog post, by originally failing to include working images.
 
 Still, got there in the end, and I was safe in the knowledge that at least I wouldn't be doing *that* again.
 
