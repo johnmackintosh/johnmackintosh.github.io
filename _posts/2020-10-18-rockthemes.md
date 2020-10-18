@@ -79,7 +79,7 @@ I'm a big fan of github actions once they are up and running.
 
 I will blog more about this, hopefully, but in the meantime, please check out the veritable cornucopia of visual delights^^ over on [rockthemes](https://johnmackintosh.com/rockthemes/)
 
-If you use it, let me know :)
+If you use it, let me know :)  
 Thanks
 
 
