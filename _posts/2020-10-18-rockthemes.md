@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "rockthemes"
-subtitle: Classic rock album covers inspire even more r colour palettes
+subtitle: Classic rock album covers inspire even more R colour palettes
 share-img: /assets/img/logo.png
-published: false
+published: TRUE
 tags:
 - rstats
 - music
