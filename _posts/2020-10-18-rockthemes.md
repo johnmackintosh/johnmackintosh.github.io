@@ -36,7 +36,7 @@ And some of them have visually appealing album covers, that go beyond black and 
 
 And so, as much to my astonishment as it will be to your general disinterest, I present: 
 
-[rockthemes](https://johnmackintosh.com/rockthemes/)
+[rockthemes package website](https://johnmackintosh.com/rockthemes/) and [repo](https://github.com/johnmackintosh/rockthemes)
 
 I'm actually quite pleased with this.
 
@@ -77,7 +77,7 @@ TWO NIGHTS OF getting nowhere, solved just like that!
 
 I'm a big fan of github actions once they are up and running.
 
-I will blog more about this, hopefully, but in the meantime, please check out the veritable cornucopia of visual delights^^ over on [rockthemes](https://johnmackintosh.com/rockthemes/)
+I will blog more about this, hopefully, but in the meantime, please check out the veritable cornucopia of visual delights^^ over on [rockthemes](https://github.com/johnmackintosh/rockthemes)
 
 If you use it, let me know :)  
 Thanks
