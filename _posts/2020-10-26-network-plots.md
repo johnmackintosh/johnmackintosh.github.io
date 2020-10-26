@@ -2,13 +2,12 @@
 layout: post
 published: false
 title: "Getting started with network plots"
-image:
-  path: /assets/img/blog/2020-10-25-visnet.png
+subtitle:  Network plots can be hit or miss. However, the visNetwork package greatly simplifies the process of producing useful, interactive network plots.  
+share-img: /assets/img/2020-10-25-visnet.png
+published: false
 tags:
-  - rstats
-sitemap: no
-description: >
-  Network plots can be hit or miss. For those of us used to tables or dataframes, the terminology is confusing. They often don't look good. However, the visNetwork package changes all that as it greatly simplifies the process of producing useful, interactive network plots.
+- rstats
+comments: yes
 ---
 
 I've long been hoping for a reason to have to devote time to learning how to produce network plots. In my world, where bar and line charts reign supreme (with heatmaps and waffle charts thrown in occasionally) it is nice to be able to develop a new visualisation. 
