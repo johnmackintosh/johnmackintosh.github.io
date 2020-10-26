@@ -1,2 +1,4 @@
 # johnmackintosh.github.io
-my site
+my site:
+
+![johnmackintosh.com](https://johnmackintosh.com)
