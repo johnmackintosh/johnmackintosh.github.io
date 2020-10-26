@@ -352,7 +352,7 @@ visnet <- visNetwork(nodes, edges) %>%
 
 visnet
 ```
-![visnet]({{site.baseurl}}/assets/img/blog/2020-10-25-visnet.png)
+![visnet]({{site.baseurl}}/assets/img/2020-10-25-visnet.png)
 
 The resulting plot is fully interactive. You can scroll in, click on points, drag them around etc. It's marvellous, and it really impressed those who I showed it to. 
 
