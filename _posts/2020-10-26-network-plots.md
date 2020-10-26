@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Getting started with network plots"
 subtitle:  Network plots can be hit or miss. However, the visNetwork package greatly simplifies the process of producing useful, interactive network plots.  
 share-img: /assets/img/2020-10-25-visnet.png
-published: false
 tags:
 - rstats
 comments: yes
@@ -357,4 +356,4 @@ visnet
 
 The resulting plot is fully interactive. You can scroll in, click on points, drag them around etc. It's marvellous, and it really impressed those who I showed it to. 
 
-There is no way I could create this with the BI tools that are currently being used in my organisation. Yet another win for R! 
+Yet another win for R! 
