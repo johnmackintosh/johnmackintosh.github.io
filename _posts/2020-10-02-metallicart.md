@@ -17,9 +17,7 @@ album covers.
 
 Each is named using an abbreviation of the relevant album, or a snippet
 of a song title from the album. In most cases, the song chosen is one of
-the stand out tracks.
-
-I *will* take questions on that :)
+the stand out tracks.  
 
 ## Why?
 
@@ -123,7 +121,7 @@ A nice wee combo of various colours from all the albums
 ![combo]({{site.baseurl}}/assets/img/2020-10-02-26.png) 
 
 
-There you go, [head over to the repo](https://github.com/johnmackintosh/metallicaRt) to see them all. 
+There you go, [head over to the package site](https://johnmackintosh.com/metallicaRt) to see them all. 
 
 If you *do* use any of these, let me know, I’d love to see
 them in action, so be sure to let me know :)
