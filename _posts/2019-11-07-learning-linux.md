@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Learning Linux - the wrong way
 date: '2019-11-07'
 subtitle: how not to do it
