@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Learning Linux - the wrong way - day 2
 date: '2019-11-09'
 subtitle: Unborking the borked  laptop
