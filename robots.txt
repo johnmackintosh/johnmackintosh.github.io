@@ -4,4 +4,7 @@ Disallow: /runcharter/
 User-agent: semrushbot
 Disallow: /
 
+User-agent: SemrushBot
+Disallow: /
+
 
