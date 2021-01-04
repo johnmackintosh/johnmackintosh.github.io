@@ -1,6 +1,6 @@
 # --- Basic options --- #
-remote_theme: "hydecorp/hydejack@v9"
-    
+remote_theme: "mmistakes/so-simple-theme@3.2.0"  
+
 # Name of website
 title: HighlandR
 
