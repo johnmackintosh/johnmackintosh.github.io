@@ -1,5 +1,5 @@
 # --- Basic options --- #
-remote_theme: "hydecorp/hydejack@v9.0.5"  
+#remote_theme: "hydecorp/hydejack@v9.0.5"  
 
 # Name of website
 title: HighlandR
@@ -193,7 +193,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-include-cache
+  #- jekyll-include-cache
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
