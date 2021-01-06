@@ -117,10 +117,10 @@ footer-link-col: "#404040"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-  repository: "johnmackintosh/johnmackintosh.github.io"
-  issue-term: title   # Mapping between blog posts and GitHub issues
-  theme: github-light # Utterances theme
-  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+repository: "johnmackintosh/johnmackintosh.github.io"
+issue-term: title   # Mapping between blog posts and GitHub issues
+theme: github-light # Utterances theme
+label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
 # accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
@@ -197,3 +197,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
