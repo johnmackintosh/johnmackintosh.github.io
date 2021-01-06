@@ -13,6 +13,7 @@ author: John MacKintosh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Alternative : "https://johnmackintosh.net"
   About : "about"  
   Archive : "archive"
   Packages:
@@ -25,7 +26,7 @@ navbar-links:
   Privacy : "Privacy" 
   
   Resources:  
-    #- My site on Netlify (faster/https) : "https://johnmackintosh.netlify.com/"  
+    - My site : "https://johnmackintosh.net"  
     - R-bloggers : "https://www.r-bloggers.com/"  
     - R-bloggers feed : "http://feeds.feedburner.com/RBloggers"   
     - R-users : "http://www.r-users.com/" 
@@ -75,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "johnmackintosh.com"
+url-pretty: "johnmackintosh.net"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
