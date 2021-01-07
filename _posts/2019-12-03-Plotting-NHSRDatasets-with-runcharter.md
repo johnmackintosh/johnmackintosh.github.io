@@ -249,7 +249,7 @@ itself
 p2$runchart
 ```
 
-![runcharter]({{site.baseurl}}/img/20191203-runcharter.png)
+![runcharter]({{site.baseurl}}/assets/img/20191203-runcharter.png)
 
 
 
