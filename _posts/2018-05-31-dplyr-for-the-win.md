@@ -24,7 +24,7 @@ In order to do this I imported Neil's spreadsheet (which I've uploaded - with Ne
 
 Here's how that looks:
 
-![20180531-basic-table.PNG]({{site.baseurl}}/img/20180531-basic-table.PNG)
+![20180531-basic-table.PNG]({{site.baseurl}}/assets/img/20180531-basic-table.PNG)
 
 
 NB - ALL patient names are entirely made up.
@@ -41,7 +41,7 @@ I'm not going to explain the code for flooring the datetime field  - just know t
 
 Here is the table output - with the 2 new columns at the end:
 
-![20180531-first-revised-table.PNG]({{site.baseurl}}/img/20180531-first-revised-table.PNG)
+![20180531-first-revised-table.PNG]({{site.baseurl}}/assets/img/20180531-first-revised-table.PNG)
 
 
 
@@ -65,7 +65,7 @@ Although not strictly necessary, I also prefixed the column names in the outer q
 Here's the output with our new Row number (or RNumber) field. 
 
 
-![20180531-row-number.PNG]({{site.baseurl}}/img/20180531-row-number.PNG)
+![20180531-row-number.PNG]({{site.baseurl}}/assets/img/20180531-row-number.PNG)
 
 
 Almost done, but this is still not in the right format - I need to get an accurate cumulative count. 
@@ -83,7 +83,7 @@ You'll notice the second query has been aliased (with a 'y') and the columns pre
 
 This gives us our final output:
 
-![20180531-seq-number.PNG]({{site.baseurl}}/img/20180531-seq-number.PNG)
+![20180531-seq-number.PNG]({{site.baseurl}})/assets/img/20180531-seq-number.PNG)
 
 
 A reminder of the dplyr code I used:
@@ -92,7 +92,7 @@ A reminder of the dplyr code I used:
 
 And here is the output - compare with above..
 
-![20180531-dplyr.PNG]({{site.baseurl}}/img/20180531-dplyr.PNG)
+![20180531-dplyr.PNG]({{site.baseurl}}/assets/img/20180531-dplyr.PNG)
 
 A lot more elegant? Definitely. 
 
