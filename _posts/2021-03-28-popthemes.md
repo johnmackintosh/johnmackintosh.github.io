@@ -34,7 +34,7 @@ Aqua? They sung a song about Barbie, and had a very colourful album cover. That'
     The Bangles - In your room
     
 
-The Bangles were always getting in, because their cover of 'Hazy Shade of Winter' is absolute banger. However, it was hard to find a decent cover, this was the best I could find, from their 'In Your Room' single. No idea what that was about, and I can't be bothered looking it up. However, as father of 3 boys, I can confidently claim that if I wrote a song called 'In your room', it would contain lots of complaints about Lego and an exhortation to 'sort this mess out'.
+The Bangles were always getting in, [because their cover of 'Hazy Shade of Winter' is absolute banger](https://youtu.be/TxrwImCJCqk). However, it was hard to find a decent cover, this was the best I could find, from their 'In Your Room' single. No idea what that was about, and I can't be bothered looking it up. However, as father of 3 boys, I can confidently claim that if I wrote a song called 'In your room', it would contain lots of complaints about Lego and an exhortation to 'sort this mess out'.
 
 ![](/assets/img/popthemes/beck.png "Beck")
 
