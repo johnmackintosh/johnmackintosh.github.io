@@ -52,7 +52,7 @@ I don't know what else to tell you.
 
 1990 was a heck of a year in the UK. [Just look at this list of tracks](https://en.wikipedia.org/wiki/List_of_UK_top-ten_singles_in_1990) that made the top ten throughout that year. New Kids on the Block, Kylie, Vanilla Ice, and Jive Bunny.
 
-In amongst all this madness, along comes Betty Boo, with an absolute [choon](https://youtu.be/H8iDrGW39EA). If you haven't heard it before, then it's a bit of an ear worm. You've been warned. I love the beat, I keep thinking this reminds me of [Cornershop's 'Brimful of Asha'](https://youtu.be/5LBnMRWeV-E) (another belter), but this came out first. I also love the way she 'na na na na's' the guitar solo. Legendary stuff. If forced, I would probably say Chris Isaak's 'Blue Hotel' was the best track of the year, based on the list that I've linked, but this would run it close.
+In amongst all this madness, along comes Betty Boo, with an absolute [choon](https://youtu.be/H8iDrGW39EA). If you haven't heard it before, then it's a bit of an ear worm. You've been warned. I love the beat, I keep thinking this reminds me of [Cornershop's 'Brimful of Asha'](https://youtu.be/5LBnMRWeV-E) (another belter, mainly because of the sweet drum fill at 03:06), but this came out first. I also love the way she 'na na na na's' the guitar solo. Legendary stuff. If forced, I would probably say Chris Isaak's 'Blue Hotel' was the best track of the year, based on the list that I've linked, but this would run it close.
 
 I was going to go with 'Doing the Do', if only because I could then use the terrible pun 'Doing the Do.Call', but as you can see, I decided not to, because I'm better than that.
 
