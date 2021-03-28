@@ -34,14 +34,14 @@ Aqua? They sung a song about Barbie, and had a very colourful album cover. That'
     The Bangles - In your room
     
 
-The Bangles were always getting in, [because their cover of 'Hazy Shade of Winter' is absolute banger](https://youtu.be/TxrwImCJCqk). However, it was hard to find a decent cover, this was the best I could find, from their 'In Your Room' single. No idea what that was about, and I can't be bothered looking it up. However, as father of 3 boys, I can confidently claim that if I wrote a song called 'In your room', it would contain lots of complaints about Lego and an exhortation to 'sort this mess out'.
+The Bangles were always getting in, [because their cover of 'Hazy Shade of Winter' is absolute banger](https://youtu.be/TxrwImCJCqk). However, it was hard to find a decent record cover, this was the best I could find, from their 'In Your Room' single. No idea what that was about, and I can't be bothered looking it up. However, as father of 3 boys, I can confidently claim that if I wrote a song called 'In your room', it would contain lots of complaints about Lego and an exhortation to 'sort this mess out'.
 
 ![](/assets/img/popthemes/beck.png "Beck")
 
     Beck
     
 
-Beck - Midnite Vultures. This has got 4.5 / from 118 reviews on Amazon. It's also colourful.
+Beck - Midnite Vultures. This has got 4.5 / 5 from 118 reviews on Amazon. It's also colourful.
 
 I don't know what else to tell you.
 
@@ -75,7 +75,7 @@ Deee-Lite. This is a stone cold classic. The video [is wild though.](https://you
     Hole - Celebrity Skin
     
 
-Hole - Celebrity Skin. A great piece of pop- punk. Is that what they were? Dunno, but this is good. I think it's the only track of theirs I've actually heard, but it's a favourite.
+Hole - Celebrity Skin. A great piece of pop - punk. Is that what they were? Dunno, but this is good. I think it's the only track of theirs I've actually heard, but it's a favourite.
 
 ![](/assets/img/popthemes/nodoubt.png "No Doubt - Tragic Kingdom")
 
@@ -87,7 +87,6 @@ No Doubt - Tragic Kingdom. This theme was submitted to {rockthemes} and it's suc
 ![](/assets/images/popthemes/astley.png "Rick Astley")
 
     rickroll
-    {:.figcaption}
 
 Rick Astley. Never Going to Give You Up. This [does what it says on the tin](https://youtu.be/dQw4w9WgXcQ)
 
@@ -98,7 +97,7 @@ Into the home straight now.
     S Club 7
     
 
-S Club 7.
+S Club 7
 
 Who among us has not been on the dancefloor [to this one](https://youtu.be/vm262cXxRrU)?
 
@@ -106,7 +105,7 @@ I don't believe, you, because even I have, and I hate being on the dancefloor.
 
 ![](/assets/img/popthemes/spice.png "Spice Girls")
 
-Spice Girls.
+Spice Girls
 
 They were the biggest band on the planet. No particular track, so pick your favourite from the Spice World album.
 
