@@ -169,5 +169,3 @@ output <- fwrite(merged[,c('session_number','Customer ID',
 ```
 
 The full code, with outputs, is available here: <https://github.com/johnmackintosh/PreppinData/tree/main/2021-08>
-
-My first, and probably last, YouTube video, which is an accompaniment to this blog post, is available here <https://youtu.be/dqqxVRWm1r8>
