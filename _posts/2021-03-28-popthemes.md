@@ -6,7 +6,6 @@ published: true
 tags:
   - ggplot2
   - rstats  
-subtitle: Introducing another set of palettes and scales for ggplot2, based on pop album covers.
 comments: yes
 ---
 
